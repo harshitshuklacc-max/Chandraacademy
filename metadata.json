@@ -1,0 +1,7 @@
+{
+  "name": "Chandra Academy - Student Teacher Management & Exam Portal",
+  "description": "Comprehensive student-teacher management platform for Chandra Academy (CGPSC, UPSC, CG Shikshak Bharti) featuring course scheduling, automated test grading, real-time messaging, online enrollment, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
